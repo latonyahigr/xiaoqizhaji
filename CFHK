@@ -1,0 +1,79 @@
+Log:
+  Level: warning # 
+  AccessPath: # /etc/XrayR/access.Log
+  ErrorPath: # /etc/XrayR/error.log
+DnsConfigPath: # /etc/XrayR/dns.json # 
+RouteConfigPath: /etc/XrayR/route.json # 
+InboundConfigPath: # /etc/XrayR/custom_inbound.json # 
+OutboundConfigPath: /etc/XrayR/custom_outbound.json # 
+ConnectionConfig:
+  Handshake: 4 # 
+  ConnIdle: 30 # 
+  UplinkOnly: 2 # 
+  DownlinkOnly: 4 # 
+  BufferSize: 64 # 
+Nodes:
+- 
+    PanelType: "NewV2board" 
+    ApiConfig: 
+      ApiHost: "https://999.tompoint.online" 
+      ApiKey: "akkdciwrtpvf65sac5c6" 
+      NodeID: 24
+      NodeType: Vmess 
+    ControllerConfig: 
+      CertConfig: 
+        CertMode: dns # 
+        CertDomain: "2b733367.35602145.xyz" # 
+        Provider: cloudflare # 
+        Email: test@me.com 
+        DNSEnv: # 
+         CLOUDFLARE_EMAIL: h89600912@gmail.com        
+         CLOUDFLARE_API_KEY: e94a8d236370e727afc8d806fcce6e0554606
+- 
+    PanelType: "NewV2board" 
+    ApiConfig: 
+      ApiHost: "https://999.tompoint.online" 
+      ApiKey: "akkdciwrtpvf65sac5c6" 
+      NodeID: 25
+      NodeType: Vmess 
+    ControllerConfig: 
+      CertConfig: 
+        CertMode: dns # 
+        CertDomain: "3fc05007.35602145.xyz" # 
+        Provider: cloudflare # 
+        Email: test@me.com 
+        DNSEnv: # 
+         CLOUDFLARE_EMAIL: h89600912@gmail.com        
+         CLOUDFLARE_API_KEY: e94a8d236370e727afc8d806fcce6e0554606
+- 
+    PanelType: "NewV2board" 
+    ApiConfig: 
+      ApiHost: "https://999.tompoint.online" 
+      ApiKey: "akkdciwrtpvf65sac5c6" 
+      NodeID: 14
+      NodeType: Vmess 
+    ControllerConfig: 
+      CertConfig: 
+        CertMode: dns # 
+        CertDomain: "cc727798.35602145.xyz" # 
+        Provider: cloudflare # 
+        Email: test@me.com 
+        DNSEnv: # 
+         CLOUDFLARE_EMAIL: h89600912@gmail.com        
+         CLOUDFLARE_API_KEY: e94a8d236370e727afc8d806fcce6e0554606
+- 
+    PanelType: "NewV2board" 
+    ApiConfig: 
+      ApiHost: "https://999.tompoint.online" 
+      ApiKey: "akkdciwrtpvf65sac5c6" 
+      NodeID: 13
+      NodeType: Vmess 
+    ControllerConfig: 
+      CertConfig: 
+        CertMode: dns # 
+        CertDomain: "00902ca6.35602145.xyz" # 
+        Provider: cloudflare # 
+        Email: test@me.com 
+        DNSEnv: # 
+         CLOUDFLARE_EMAIL: h89600912@gmail.com        
+         CLOUDFLARE_API_KEY: e94a8d236370e727afc8d806fcce6e0554606
