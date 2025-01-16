@@ -93,3 +93,67 @@ Nodes:
         DNSEnv: #
          CLOUDFLARE_EMAIL: zhoujiang99999@gmail.com
          CLOUDFLARE_API_KEY: b920102e1bb9d6c42f23c508c5174f96cb86b
+  - 
+    PanelType: "NewV2board" 
+    ApiConfig: 
+      ApiHost: "https://999.tompoint.online" 
+      ApiKey: "akkdciwrtpvf65sac5c6" 
+      NodeID: 22
+      NodeType: Vmess 
+    ControllerConfig: 
+      CertConfig: 
+        CertMode: dns # 
+        CertDomain: "syus1.3651250.xyz" # 
+        Provider: cloudflare # 
+        Email: test@me.com 
+        DNSEnv: # 
+         CLOUDFLARE_EMAIL: h89600912@gmail.com        
+         CLOUDFLARE_API_KEY: e94a8d236370e727afc8d806fcce6e0554606
+  - 
+    PanelType: "NewV2board" 
+    ApiConfig: 
+      ApiHost: "https://999.tompoint.online" 
+      ApiKey: "akkdciwrtpvf65sac5c6" 
+      NodeID: 23
+      NodeType: Vmess 
+    ControllerConfig: 
+      CertConfig: 
+        CertMode: dns # 
+        CertDomain: "syus2.3651250.xyz" # 
+        Provider: cloudflare # 
+        Email: test@me.com 
+        DNSEnv: # 
+         CLOUDFLARE_EMAIL: h89600912@gmail.com        
+         CLOUDFLARE_API_KEY: e94a8d236370e727afc8d806fcce6e0554606
+  - 
+    PanelType: "NewV2board" 
+    ApiConfig: 
+      ApiHost: "https://999.tompoint.online" 
+      ApiKey: "akkdciwrtpvf65sac5c6" 
+      NodeID: 26
+      NodeType: Vmess 
+    ControllerConfig: 
+      CertConfig: 
+        CertMode: dns # 
+        CertDomain: "syus3.3651250.xyz" # 
+        Provider: cloudflare # 
+        Email: test@me.com 
+        DNSEnv: # 
+         CLOUDFLARE_EMAIL: h89600912@gmail.com        
+         CLOUDFLARE_API_KEY: e94a8d236370e727afc8d806fcce6e0554606
+  - 
+    PanelType: "NewV2board" 
+    ApiConfig: 
+      ApiHost: "https://999.tompoint.online" 
+      ApiKey: "akkdciwrtpvf65sac5c6" 
+      NodeID: 27
+      NodeType: Vmess 
+    ControllerConfig: 
+      CertConfig: 
+        CertMode: dns # 
+        CertDomain: "syus4.3651250.xyz" # 
+        Provider: cloudflare # 
+        Email: test@me.com 
+        DNSEnv: # 
+         CLOUDFLARE_EMAIL: h89600912@gmail.com        
+         CLOUDFLARE_API_KEY: e94a8d236370e727afc8d806fcce6e0554606
