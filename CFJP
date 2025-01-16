@@ -146,12 +146,12 @@ Nodes:
     ApiConfig: 
       ApiHost: "https://999.tompoint.online" 
       ApiKey: "akkdciwrtpvf65sac5c6" 
-      NodeID: 22
+      NodeID: 20
       NodeType: Vmess 
     ControllerConfig: 
       CertConfig: 
         CertMode: dns # 
-        CertDomain: "syjp4.35602145.xyz" # 
+        CertDomain: "syjp4.3651250.xyz" # 
         Provider: cloudflare # 
         Email: test@me.com 
         DNSEnv: # 
