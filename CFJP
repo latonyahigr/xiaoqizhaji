@@ -240,7 +240,7 @@ Nodes:
   - 
     PanelType: "NewV2board" 
     ApiConfig: 
-      ApiHost: "https://tmtx.358745780.xyz" 
+      ApiHost: "https://smtx.48952123.xyz" 
       ApiKey: "wierioqwjshalwouqaksjdkwo" 
       NodeID: 9
       NodeType: Vmess 
@@ -256,7 +256,7 @@ Nodes:
   - 
     PanelType: "NewV2board" 
     ApiConfig: 
-      ApiHost: "https://tmtx.358745780.xyz" 
+      ApiHost: "https://smtx.48952123.xyz" 
       ApiKey: "wierioqwjshalwouqaksjdkwo" 
       NodeID: 15
       NodeType: Vmess 
@@ -272,14 +272,14 @@ Nodes:
   - 
     PanelType: "NewV2board" 
     ApiConfig: 
-      ApiHost: "https://tmtx.358745780.xyz" 
+      ApiHost: "https://smtx.48952123.xyz" 
       ApiKey: "wierioqwjshalwouqaksjdkwo" 
       NodeID: 11
       NodeType: Vmess 
     ControllerConfig: 
       CertConfig: 
         CertMode: dns # 
-        CertDomain: "smrb3.48952122.xyz" # 
+        CertDomain: "smtx.48952123.xyz" # 
         Provider: cloudflare # 
         Email: test@me.com 
         DNSEnv: # 
@@ -288,7 +288,7 @@ Nodes:
   - 
     PanelType: "NewV2board" 
     ApiConfig: 
-      ApiHost: "https://tmtx.358745780.xyz" 
+      ApiHost: "https://smtx.48952123.xyz" 
       ApiKey: "wierioqwjshalwouqaksjdkwo" 
       NodeID: 12
       NodeType: Vmess 
