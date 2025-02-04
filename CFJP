@@ -157,3 +157,83 @@ Nodes:
         DNSEnv: # 
          CLOUDFLARE_EMAIL: h89600912@gmail.com        
          CLOUDFLARE_API_KEY: e94a8d236370e727afc8d806fcce6e0554606
+  - 
+    PanelType: "NewV2board" 
+    ApiConfig: 
+      ApiHost: "https://tmtx.358745780.xyz" 
+      ApiKey: "sjjwiidkkkwsssw55d222awss" 
+      NodeID: 47
+      NodeType: Vmess 
+    ControllerConfig: 
+      CertConfig: 
+        CertMode: dns # 
+        CertDomain: "smrb1.48952122.xyz" # 
+        Provider: cloudflare # 
+        Email: test@me.com 
+        DNSEnv: # 
+         CLOUDFLARE_EMAIL: nastyshadmitr1@gmail.com        
+         CLOUDFLARE_API_KEY: 1ecc5746bb68db003a01e16b0fd80275d769c
+  - 
+    PanelType: "NewV2board" 
+    ApiConfig: 
+      ApiHost: "https://tmtx.358745780.xyz" 
+      ApiKey: "sjjwiidkkkwsssw55d222awss" 
+      NodeID: 48
+      NodeType: Vmess 
+    ControllerConfig: 
+      CertConfig: 
+        CertMode: dns # 
+        CertDomain: "smrb1.48952122.xyz" # 
+        Provider: cloudflare # 
+        Email: test@me.com 
+        DNSEnv: # 
+         CLOUDFLARE_EMAIL: nastyshadmitr1@gmail.com        
+         CLOUDFLARE_API_KEY: 1ecc5746bb68db003a01e16b0fd80275d769c
+  - 
+    PanelType: "NewV2board" 
+    ApiConfig: 
+      ApiHost: "https://tmtx.358745780.xyz" 
+      ApiKey: "sjjwiidkkkwsssw55d222awss" 
+      NodeID: 49
+      NodeType: Vmess 
+    ControllerConfig: 
+      CertConfig: 
+        CertMode: dns # 
+        CertDomain: "smrb1.48952122.xyz" # 
+        Provider: cloudflare # 
+        Email: test@me.com 
+        DNSEnv: # 
+         CLOUDFLARE_EMAIL: nastyshadmitr1@gmail.com        
+         CLOUDFLARE_API_KEY: 1ecc5746bb68db003a01e16b0fd80275d769c
+  - 
+    PanelType: "NewV2board" 
+    ApiConfig: 
+      ApiHost: "https://tmtx.358745780.xyz" 
+      ApiKey: "sjjwiidkkkwsssw55d222awss" 
+      NodeID: 50
+      NodeType: Vmess 
+    ControllerConfig: 
+      CertConfig: 
+        CertMode: dns # 
+        CertDomain: "smrb1.48952122.xyz" # 
+        Provider: cloudflare # 
+        Email: test@me.com 
+        DNSEnv: # 
+         CLOUDFLARE_EMAIL: nastyshadmitr1@gmail.com        
+         CLOUDFLARE_API_KEY: 1ecc5746bb68db003a01e16b0fd80275d769c
+  - 
+    PanelType: "NewV2board" 
+    ApiConfig: 
+      ApiHost: "https://tmtx.358745780.xyz" 
+      ApiKey: "sjjwiidkkkwsssw55d222awss" 
+      NodeID: 51
+      NodeType: Vmess 
+    ControllerConfig: 
+      CertConfig: 
+        CertMode: dns # 
+        CertDomain: "smrb1.48952122.xyz" # 
+        Provider: cloudflare # 
+        Email: test@me.com 
+        DNSEnv: # 
+         CLOUDFLARE_EMAIL: nastyshadmitr1@gmail.com        
+         CLOUDFLARE_API_KEY: 1ecc5746bb68db003a01e16b0fd80275d769c
