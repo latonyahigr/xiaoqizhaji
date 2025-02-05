@@ -13,7 +13,7 @@ ConnectionConfig:
   DownlinkOnly: 4 # 
   BufferSize: 64 # 
 Nodes:
-- 
+  - 
     PanelType: "NewV2board" 
     ApiConfig: 
       ApiHost: "https://999.tompoint.online" 
@@ -29,7 +29,7 @@ Nodes:
         DNSEnv: # 
          CLOUDFLARE_EMAIL: h89600912@gmail.com        
          CLOUDFLARE_API_KEY: e94a8d236370e727afc8d806fcce6e0554606
-- 
+  - 
     PanelType: "NewV2board" 
     ApiConfig: 
       ApiHost: "https://999.tompoint.online" 
@@ -45,7 +45,7 @@ Nodes:
         DNSEnv: # 
          CLOUDFLARE_EMAIL: h89600912@gmail.com        
          CLOUDFLARE_API_KEY: e94a8d236370e727afc8d806fcce6e0554606
-- 
+  - 
     PanelType: "NewV2board" 
     ApiConfig: 
       ApiHost: "https://999.tompoint.online" 
@@ -61,7 +61,7 @@ Nodes:
         DNSEnv: # 
          CLOUDFLARE_EMAIL: h89600912@gmail.com        
          CLOUDFLARE_API_KEY: e94a8d236370e727afc8d806fcce6e0554606
-- 
+  - 
     PanelType: "NewV2board" 
     ApiConfig: 
       ApiHost: "https://999.tompoint.online" 
