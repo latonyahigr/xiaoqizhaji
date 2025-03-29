@@ -87,7 +87,7 @@ Nodes:
     ControllerConfig: 
       CertConfig: 
         CertMode: dns # 
-        CertDomain: "JackieChan.3547848.xyz" # 
+        CertDomain: "9a8b7c6d.3547848.xyz" # 
         Provider: cloudflare # 
         Email: test@me.com 
         DNSEnv: # 
@@ -103,7 +103,7 @@ Nodes:
     ControllerConfig: 
       CertConfig: 
         CertMode: dns # 
-        CertDomain: "BruceLee.3547848.xyz" # 
+        CertDomain: "b4c5d6e7.3547848.xyz" # 
         Provider: cloudflare # 
         Email: test@me.com 
         DNSEnv: # 
@@ -119,7 +119,7 @@ Nodes:
     ControllerConfig: 
       CertConfig: 
         CertMode: dns # 
-        CertDomain: "AndyLau.3547848.xyz" # 
+        CertDomain: "2e3f4a5b.3547848.xyz" # 
         Provider: cloudflare # 
         Email: test@me.com 
         DNSEnv: # 
@@ -135,7 +135,7 @@ Nodes:
     ControllerConfig: 
       CertConfig: 
         CertMode: dns # 
-        CertDomain: "ChowYunFat.3547848.xyz" # 
+        CertDomain: "d8e9f0a1.3547848.xyz" # 
         Provider: cloudflare # 
         Email: test@me.com 
         DNSEnv: # 
@@ -151,7 +151,7 @@ Nodes:
     ControllerConfig: 
       CertConfig: 
         CertMode: dns # 
-        CertDomain: "MaggieCheung.3547848.xyz" # 
+        CertDomain: "6a7b8c9d.3547848.xyz" # 
         Provider: cloudflare # 
         Email: test@me.com 
         DNSEnv: # 
