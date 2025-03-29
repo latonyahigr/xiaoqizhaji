@@ -167,7 +167,7 @@ Nodes:
     ControllerConfig: 
       CertConfig: 
         CertMode: dns # 
-        CertDomain: "GeorgeWashington.650149.xyz" # 
+        CertDomain: "7a1b3c8d.2547851.xyz" # 
         Provider: cloudflare # 
         Email: test@me.com 
         DNSEnv: # 
@@ -183,7 +183,7 @@ Nodes:
     ControllerConfig: 
       CertConfig: 
         CertMode: dns # 
-        CertDomain: "AlbertEinstein.650149.xyz" # 
+        CertDomain: "e4f5a6b7.2547851.xyz" # 
         Provider: cloudflare # 
         Email: test@me.com 
         DNSEnv: # 
@@ -199,7 +199,7 @@ Nodes:
     ControllerConfig: 
       CertConfig: 
         CertMode: dns # 
-        CertDomain: "BarackObama.650149.xyz" # 
+        CertDomain: "9c8d7e6f.2547851.xyz" # 
         Provider: cloudflare # 
         Email: test@me.com 
         DNSEnv: # 
@@ -215,7 +215,7 @@ Nodes:
     ControllerConfig: 
       CertConfig: 
         CertMode: dns # 
-        CertDomain: "MartinLutherKing.650149.xyz" # 
+        CertDomain: "2a3b4c5d.2547851.xyz" # 
         Provider: cloudflare # 
         Email: test@me.com 
         DNSEnv: # 
@@ -231,7 +231,7 @@ Nodes:
     ControllerConfig: 
       CertConfig: 
         CertMode: dns # 
-        CertDomain: "WaltDisney.650149.xyz.xyz" # 
+        CertDomain: "f1e2d3c4.2547851.xyz" # 
         Provider: cloudflare # 
         Email: test@me.com 
         DNSEnv: # 
